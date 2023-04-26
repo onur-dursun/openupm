@@ -1,0 +1,19 @@
+name: com.whaleforge.forgetools
+displayName: Forge Tools
+description: This is an internal library for WhaleForge.
+repoUrl: 'https://github.com/WhaleForge/forgetools'
+parentRepoUrl: null
+licenseSpdxId: Unlicense
+licenseName: The Unlicense
+topics:
+  - editor-enhancement
+hunter: onur-dursun
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1682500243063
